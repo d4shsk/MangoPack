@@ -1,0 +1,11 @@
+{
+  "providers": [
+    { "type": "reference", "id": "minecraft:include/space" },
+    { "type": "reference", "id": "minecraft:include/default" },
+
+    { "type": "bitmap", "file": "minecraft:font/crown.png",        "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/donator.png",      "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/default_rank.png", "ascent": 7, "height": 8, "chars": [""] },
+    { "type": "bitmap", "file": "minecraft:font/admin.png",        "ascent": 7, "height": 8, "chars": [""] }
+  ]
+}
